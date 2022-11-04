@@ -1,0 +1,52 @@
+.text-center{
+    text-align: center;
+}
+.heading-small{
+    font-size: 1.25rem;
+}
+.heading-medium{
+    font-size: 1.5rem;
+}
+.heading-big{
+    font-size: 1.75rem;
+}
+
+.bg-dark-blue{
+    background: rgb(216, 152, 163);
+}
+.bg-light-blue{
+    background: #f07934;
+}
+
+/* buttons */
+
+.btn{
+    margin-top: 1.26rem;
+    padding: 0.8rem 3rem ;
+    border-radius: 8px;
+    letter-spacing: 0.6px;
+}
+.btn-primary{
+    background:#f07934;
+}
+.btn-primary:hover{
+    color:#f07934; 
+    background: white;
+    border: 0.5px solid #f07934; 
+}
+.btn-dark{
+    background: palevioletred;
+}
+.btn-dark:hover{
+    color:palevioletred ;
+    background: white;
+    border: 0.5px solid palevioletred;
+}
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+#home .name{
+    text-align: center;
+}
